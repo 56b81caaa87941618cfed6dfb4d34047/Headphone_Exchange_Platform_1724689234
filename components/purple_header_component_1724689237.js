@@ -21,47 +21,47 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           <ul id="desktop-menu-links" class="flex grow justify-center flex-wrap items-center">
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_1-link"
+                id="Buy-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_1.html"
+                href="Buy.html"
               >
-                HEADER_NAVBAR_TEXT_1
+                Buy
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_2-link"
+                id="Sell-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_2.html"
+                href="Sell.html"
               >
-                HEADER_NAVBAR_TEXT_2
+                Sell
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_3-link"
+                id="Trade-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_3.html"
+                href="Trade.html"
               >
-                HEADER_NAVBAR_TEXT_3
+                Trade
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_4-link"
+                id="Brands-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_4.html"
+                href="Brands.html"
               >
-                HEADER_NAVBAR_TEXT_4
+                Brands
               </a>
             </li>
             <li>
               <a
-                id="HEADER_NAVBAR_TEXT_5-link"
+                id="Community-link"
                 class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-slate-300 hover:text-white"
-                href="HEADER_NAVBAR_TEXT_5.html"
+                href="Community.html"
               >
-                HEADER_NAVBAR_TEXT_5
+                Community
               </a>
             </li>
           </ul>
@@ -118,19 +118,19 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           >
             <ul id="mobile-nav-list" class="border border-transparent rounded-lg px-4 py-1.5 [background:linear-gradient(theme(colors.slate.900),_theme(colors.slate.900))_padding-box,_conic-gradient(theme(colors.slate.400),_theme(colors.slate.700)_25%,_theme(colors.slate.700)_75%,_theme(colors.slate.400)_100%)_border-box]">
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_1-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_1.html">HEADER_NAVBAR_TEXT_1</a>
+                <a id="mobile-Buy-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Buy.html">Buy</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_2-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_2.html">HEADER_NAVBAR_TEXT_2</a>
+                <a id="mobile-Sell-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Sell.html">Sell</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_3-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_3.html">HEADER_NAVBAR_TEXT_3</a>
+                <a id="mobile-Trade-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Trade.html">Trade</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_4-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_4.html">HEADER_NAVBAR_TEXT_4</a>
+                <a id="mobile-Brands-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Brands.html">Brands</a>
               </li>
               <li>
-                <a id="mobile-HEADER_NAVBAR_TEXT_5-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="HEADER_NAVBAR_TEXT_5.html">HEADER_NAVBAR_TEXT_5</a>
+                <a id="mobile-Community-link" class="flex font-medium text-sm py-1.5 text-slate-300 hover:text-white" href="Community.html">Community</a>
               </li>
             </ul>
           </nav>

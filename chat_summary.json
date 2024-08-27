@@ -36,5 +36,11 @@
         "content": "Noted! Adding a button with \"Shoryouken\" text now.",
         "timestamp": "27082024165905",
         "message_id": "guest27082024165904"
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly should the 'Shoryouken' button be placed within the app interface?\", \"option1\": \"On the main trading screen, easily accessible for quick actions.\", \"option2\": \"In the app's settings menu, as an easter egg or special feature.\"}, {\"question 2\": \"What specific function or action should the 'Shoryouken' button perform when pressed?\", \"option1\": \"Initiate a new trade with a randomized pairing system.\", \"option2\": \"Open a secret page with special deals or hidden content.\"}], \"input_token_count\": 314, \"output_token_count\": 126, \"time_taken\": \"0:00:03.540308\"}",
+        "timestamp": "27082024165911",
+        "message_id": "guest27082024165904"
     }
 ]

@@ -30,5 +30,11 @@
         "content": "add a button that says shoryouken",
         "timestamp": "27082024165904",
         "message_id": "guest27082024165904"
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Noted! Adding a button with \"Shoryouken\" text now.",
+        "timestamp": "27082024165905",
+        "message_id": "guest27082024165904"
     }
 ]

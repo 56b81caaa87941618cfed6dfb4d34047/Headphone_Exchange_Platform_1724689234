@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the 'Shoryuken' button to be located within the app?\", \"option1\": \"On the main page near the top\", \"option2\": \"In the user's profile section\"}, {\"question 2\": \"What function should the 'Shoryuken' button perform when clicked?\", \"option1\": \"Open a new section with exclusive deals\", \"option2\": \"Initiate a search with advanced filters\"}], \"input_token_count\": 272, \"output_token_count\": 105, \"time_taken\": \"0:00:03.066458\"}",
+        "message_id": "guest27082024165631",
+        "timestamp": "27082024165636",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Acknowledged, working on adding the \"Shoryouken\" button.",
         "message_id": "guest27082024165631",

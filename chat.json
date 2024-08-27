@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "Add a button that says shoryouken",
+        "message_id": "guest27082024165631",
+        "timestamp": "27082024165631",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "makeinfinite",
         "content": "Can you describe the project a bit more?",
         "message_id": "project_init",

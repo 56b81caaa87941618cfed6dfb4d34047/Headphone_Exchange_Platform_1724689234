@@ -48,6 +48,10 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
             Get Started
             <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-700">-&gt;</span>
           </a>
+
+          <a id="shoryuken-button" href="#0" class="btn transition duration-150 ease-in-out group text-purple-900 bg-gradient-to-r from-pink-300 via-purple-200 to-pink-300 hover:bg-white hover:text-purple-600 rounded-lg px-6 py-3 mt-4">
+            Shoryuken
+          </a>
         </div>
       </div>
     </div>

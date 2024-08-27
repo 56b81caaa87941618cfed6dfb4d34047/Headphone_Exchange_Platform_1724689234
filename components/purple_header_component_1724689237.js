@@ -6,7 +6,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
 -->
 
 <template>
-  <header class="w-full z-30 bg-gradient-to-r from-pink-500 to-purple-600 bg-opacity-30 backdrop-filter backdrop-blur-lg shadow-lg" id="header-section-container">
+  <header class="w-full z-30 bg-gradient-to-r from-pink-500 to-purple-600 bg-opacity-30 backdrop-filter backdrop-blur-lg shadow-lg rounded-lg" id="header-section-container">
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <div class="flex items-center justify-between h-16 md:h-20">
         <!-- Site Branding -->
@@ -22,7 +22,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="Buy-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200 hover:bg-purple-600 hover:bg-opacity-30 hover:backdrop-filter hover:backdrop-blur-lg hover:shadow-lg hover:rounded-lg px-2 py-1"
                 href="Buy.html"
               >
                 Buy
@@ -31,7 +31,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="Sell-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200 hover:bg-purple-600 hover:bg-opacity-30 hover:backdrop-filter hover:backdrop-blur-lg hover:shadow-lg hover:rounded-lg px-2 py-1"
                 href="Sell.html"
               >
                 Sell
@@ -40,7 +40,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="Trade-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200 hover:bg-purple-600 hover:bg-opacity-30 hover:backdrop-filter hover:backdrop-blur-lg hover:shadow-lg hover:rounded-lg px-2 py-1"
                 href="Trade.html"
               >
                 Trade
@@ -49,7 +49,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="Brands-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200 hover:bg-purple-600 hover:bg-opacity-30 hover:backdrop-filter hover:backdrop-blur-lg hover:shadow-lg hover:rounded-lg px-2 py-1"
                 href="Brands.html"
               >
                 Brands
@@ -58,7 +58,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
             <li>
               <a
                 id="Community-link"
-                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="font-medium text-sm mx-4 lg:mx-5 transition duration-150 ease-in-out text-white hover:text-pink-200 hover:bg-purple-600 hover:bg-opacity-30 hover:backdrop-filter hover:backdrop-blur-lg hover:shadow-lg hover:rounded-lg px-2 py-1"
                 href="Community.html"
               >
                 Community
@@ -72,7 +72,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           <li>
             <a
               id="sign-in-link"
-              class="font-medium text-sm whitespace-nowrap transition duration-150 ease-in-out text-white hover:text-pink-200"
+              class="font-medium text-sm whitespace-nowrap transition duration-150 ease-in-out text-white hover:text-pink-200 hover:bg-purple-600 hover:bg-opacity-30 hover:backdrop-filter hover:backdrop-blur-lg hover:shadow-lg hover:rounded-lg px-2 py-1"
               href="signin.html"
             >
               Sign in
@@ -81,7 +81,7 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           <li class="ml-6">
             <a
               id="sign-up-link"
-              class="btn-sm transition duration-150 ease-in-out w-full group relative text-white hover:text-pink-200 bg-purple-700 bg-opacity-50 hover:bg-opacity-70 rounded-full px-4 py-2"
+              class="btn-sm transition duration-150 ease-in-out w-full group relative text-white hover:text-pink-200 bg-purple-700 bg-opacity-50 hover:bg-opacity-70 rounded-full px-4 py-2 hover:shadow-lg"
               href="signup.html"
             >
               <span class="relative inline-flex items-center"> Sign up <span id="sign-up-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-pink-300">-&gt;</span> </span>
@@ -118,19 +118,19 @@ INSTRUCTION: 3. Desktop sign-in and sign-up links on the right.
           >
             <ul id="mobile-nav-list" class="rounded-lg px-4 py-2 bg-purple-600 bg-opacity-30 backdrop-filter backdrop-blur-lg shadow-lg">
               <li>
-                <a id="mobile-Buy-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200" href="Buy.html">Buy</a>
+                <a id="mobile-Buy-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200 hover:bg-purple-600 hover:bg-opacity-30 hover:backdrop-filter hover:backdrop-blur-lg hover:shadow-lg hover:rounded-lg px-2" href="Buy.html">Buy</a>
               </li>
               <li>
-                <a id="mobile-Sell-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200" href="Sell.html">Sell</a>
+                <a id="mobile-Sell-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200 hover:bg-purple-600 hover:bg-opacity-30 hover:backdrop-filter hover:backdrop-blur-lg hover:shadow-lg hover:rounded-lg px-2" href="Sell.html">Sell</a>
               </li>
               <li>
-                <a id="mobile-Trade-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200" href="Trade.html">Trade</a>
+                <a id="mobile-Trade-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200 hover:bg-purple-600 hover:bg-opacity-30 hover:backdrop-filter hover:backdrop-blur-lg hover:shadow-lg hover:rounded-lg px-2" href="Trade.html">Trade</a>
               </li>
               <li>
-                <a id="mobile-Brands-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200" href="Brands.html">Brands</a>
+                <a id="mobile-Brands-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200 hover:bg-purple-600 hover:bg-opacity-30 hover:backdrop-filter hover:backdrop-blur-lg hover:shadow-lg hover:rounded-lg px-2" href="Brands.html">Brands</a>
               </li>
               <li>
-                <a id="mobile-Community-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200" href="Community.html">Community</a>
+                <a id="mobile-Community-link" class="flex font-medium text-sm py-1.5 text-white hover:text-pink-200 hover:bg-purple-600 hover:bg-opacity-30 hover:backdrop-filter hover:backdrop-blur-lg hover:shadow-lg hover:rounded-lg px-2" href="Community.html">Community</a>
               </li>
             </ul>
           </nav>

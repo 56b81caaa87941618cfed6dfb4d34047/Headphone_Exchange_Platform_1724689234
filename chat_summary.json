@@ -1,64 +1,98 @@
 [
     {
-        "role": "makeinfinite",
-        "content": "Can you describe the project a bit more?",
-        "message_id": "project_init",
-        "timestamp": "1724689237",
-        "component_file_name": "",
-        "div_id": ""
-    },
-    {
         "role": "user",
-        "content": "Add a button that says shoryouken",
-        "timestamp": "27082024165631",
-        "message_id": "guest27082024165631"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Acknowledged, working on adding the \"Shoryouken\" button.",
-        "timestamp": "27082024165632",
-        "message_id": "guest27082024165631"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the 'Shoryuken' button to be located within the app?\", \"option1\": \"On the main page near the top\", \"option2\": \"In the user's profile section\"}, {\"question 2\": \"What function should the 'Shoryuken' button perform when clicked?\", \"option1\": \"Open a new section with exclusive deals\", \"option2\": \"Initiate a search with advanced filters\"}], \"input_token_count\": 272, \"output_token_count\": 105, \"time_taken\": \"0:00:03.066458\"}",
-        "timestamp": "27082024165636",
-        "message_id": "guest27082024165631"
-    },
-    {
-        "role": "user",
-        "content": "add a button that says shoryouken",
-        "timestamp": "27082024165904",
-        "message_id": "guest27082024165904"
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Noted! Adding a button with \"Shoryouken\" text now.",
-        "timestamp": "27082024165905",
-        "message_id": "guest27082024165904"
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly should the 'Shoryouken' button be placed within the app interface?\", \"option1\": \"On the main trading screen, easily accessible for quick actions.\", \"option2\": \"In the app's settings menu, as an easter egg or special feature.\"}, {\"question 2\": \"What specific function or action should the 'Shoryouken' button perform when pressed?\", \"option1\": \"Initiate a new trade with a randomized pairing system.\", \"option2\": \"Open a secret page with special deals or hidden content.\"}], \"input_token_count\": 314, \"output_token_count\": 126, \"time_taken\": \"0:00:03.540308\"}",
-        "timestamp": "27082024165911",
-        "message_id": "guest27082024165904"
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add detailed tooltips for the 'Shoryouken' button explaining its functionality\", \"checked\": false}, {\"feature\": \"Implement a confirmation dialog upon 'Shoryouken' button press to prevent accidental actions\", \"checked\": false}, {\"feature\": \"Customize the 'Shoryouken' button with a unique icon representing its function\", \"checked\": true}, {\"feature\": \"Animate the 'Shoryouken' button for user engagement when hovered or clicked\", \"checked\": true}, {\"feature\": \"Add a user feedback form that appears after the 'Shoryouken' button is used\", \"checked\": false}, {\"feature\": \"Include a shortcut key guide in the help section for using the 'Shoryouken' button\", \"checked\": false}], \"input_token_count\": 268, \"output_token_count\": 163, \"time_taken\": \"0:00:06.075942\"}",
-        "timestamp": "27082024165914",
-        "message_id": "guest27082024165904"
-    },
-    {
-        "role": "user",
-        "content": "Change the image to a dinosaur",
-        "timestamp": "28082024083836",
-        "message_id": "guest28082024083836"
+        "content": "change the image to a dinosaur",
+        "message_id": "guest28082024083955",
+        "timestamp": "28082024083955",
+        "component_file_name": "purple_header_component_1724689237",
+        "div_id": "",
+        "div_action": ""
     },
     {
         "role": "chat_acknowledge",
         "content": "Alright, will change the image to a dinosaur.",
+        "message_id": "guest28082024083836",
         "timestamp": "28082024083837",
-        "message_id": "guest28082024083836"
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Change the image to a dinosaur",
+        "message_id": "guest28082024083836",
+        "timestamp": "28082024083836",
+        "component_file_name": "purple_header_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add detailed tooltips for the 'Shoryouken' button explaining its functionality\", \"checked\": false}, {\"feature\": \"Implement a confirmation dialog upon 'Shoryouken' button press to prevent accidental actions\", \"checked\": false}, {\"feature\": \"Customize the 'Shoryouken' button with a unique icon representing its function\", \"checked\": true}, {\"feature\": \"Animate the 'Shoryouken' button for user engagement when hovered or clicked\", \"checked\": true}, {\"feature\": \"Add a user feedback form that appears after the 'Shoryouken' button is used\", \"checked\": false}, {\"feature\": \"Include a shortcut key guide in the help section for using the 'Shoryouken' button\", \"checked\": false}], \"input_token_count\": 268, \"output_token_count\": 163, \"time_taken\": \"0:00:06.075942\"}",
+        "message_id": "guest27082024165904",
+        "timestamp": "27082024165914",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where exactly should the 'Shoryouken' button be placed within the app interface?\", \"option1\": \"On the main trading screen, easily accessible for quick actions.\", \"option2\": \"In the app's settings menu, as an easter egg or special feature.\"}, {\"question 2\": \"What specific function or action should the 'Shoryouken' button perform when pressed?\", \"option1\": \"Initiate a new trade with a randomized pairing system.\", \"option2\": \"Open a secret page with special deals or hidden content.\"}], \"input_token_count\": 314, \"output_token_count\": 126, \"time_taken\": \"0:00:03.540308\"}",
+        "message_id": "guest27082024165904",
+        "timestamp": "27082024165911",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Noted! Adding a button with \"Shoryouken\" text now.",
+        "message_id": "guest27082024165904",
+        "timestamp": "27082024165905",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "add a button that says shoryouken",
+        "message_id": "guest27082024165904",
+        "timestamp": "27082024165904",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where do you want the 'Shoryuken' button to be located within the app?\", \"option1\": \"On the main page near the top\", \"option2\": \"In the user's profile section\"}, {\"question 2\": \"What function should the 'Shoryuken' button perform when clicked?\", \"option1\": \"Open a new section with exclusive deals\", \"option2\": \"Initiate a search with advanced filters\"}], \"input_token_count\": 272, \"output_token_count\": 105, \"time_taken\": \"0:00:03.066458\"}",
+        "message_id": "guest27082024165631",
+        "timestamp": "27082024165636",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Acknowledged, working on adding the \"Shoryouken\" button.",
+        "message_id": "guest27082024165631",
+        "timestamp": "27082024165632",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Add a button that says shoryouken",
+        "message_id": "guest27082024165631",
+        "timestamp": "27082024165631",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "summary",
+        "content": "Can you describe the project a bit more?",
+        "timestamp": "28082024083955",
+        "message_id": "guest28082024083955"
     }
 ]

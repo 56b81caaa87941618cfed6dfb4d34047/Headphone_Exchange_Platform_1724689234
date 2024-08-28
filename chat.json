@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the dinosaur image to be placed within the app?\", \"option1\": \"Replace the current homepage banner\", \"option2\": \"Use it as a background image for the login page\"}, {\"question 2\": \"What style of dinosaur image do you prefer for the app's design?\", \"option1\": \"A realistic depiction\", \"option2\": \"A cartoonish/stylized version\"}], \"input_token_count\": 425, \"output_token_count\": 97, \"time_taken\": \"0:00:04.682616\"}",
+        "message_id": "guest28082024135008",
+        "timestamp": "28082024135016",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I am updating the image to a dinosaur.",
         "message_id": "guest28082024135008",

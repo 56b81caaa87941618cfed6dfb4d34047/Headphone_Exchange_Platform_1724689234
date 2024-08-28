@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add alternative text to images for accessibility\", \"checked\": true}, {\"feature\": \"Implement a lightbox feature for images\", \"checked\": false}, {\"feature\": \"Enable image zoom on hover\", \"checked\": false}, {\"feature\": \"Add a 'featured headphones' section with high-resolution images\", \"checked\": true}, {\"feature\": \"Implement lazy loading for images\", \"checked\": false}], \"input_token_count\": 334, \"output_token_count\": 96, \"time_taken\": \"0:00:05.011623\"}",
+        "message_id": "guest28082024083955",
+        "timestamp": "28082024084003",
+        "component_file_name": "purple_header_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Got it, I will change the image to a dinosaur.",
         "message_id": "guest28082024083955",

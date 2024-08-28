@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I am updating the image to a dinosaur.",
+        "message_id": "guest28082024135008",
+        "timestamp": "28082024135010",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to a dinosaur",
         "message_id": "guest28082024135008",

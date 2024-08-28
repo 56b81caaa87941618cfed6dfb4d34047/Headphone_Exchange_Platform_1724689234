@@ -1,8 +1,3 @@
-<!-- 
-INSTRUCTION: Summary: The section has a blurred radial gradient background and a call-to-action (CTA) content block.
-INSTRUCTION: It is centered on the page and includes a gradient-based title, a subtitle, a paragraph of text, and a button with a gradient background.
--->
-
 <template>
   <section id="cta-section-container">
     <div id="section-container" class="max-w-6xl mx-auto px-4 sm:px-6 bg-transparent">
@@ -52,6 +47,9 @@ INSTRUCTION: It is centered on the page and includes a gradient-based title, a s
           <a id="shoryuken-button" href="#0" class="btn transition duration-150 ease-in-out group text-purple-900 bg-gradient-to-r from-pink-300 via-purple-200 to-pink-300 hover:bg-white hover:text-purple-600 rounded-lg px-6 py-3 mt-4">
             Shoryuken
           </a>
+
+          <!-- Added Image -->
+          <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Headphone_Exchange_Platform_1724689234/main/images/b8ad5b4c4f024c0287e430249a1e7a70.jpeg" alt="CTA Image" class="mt-8 rounded-lg w-full max-w-lg mx-auto" />
         </div>
       </div>
     </div>

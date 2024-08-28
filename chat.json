@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "change the image to a dinosaur",
+        "message_id": "guest28082024083955",
+        "timestamp": "28082024083955",
+        "component_file_name": "purple_header_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, will change the image to a dinosaur.",
         "message_id": "guest28082024083836",

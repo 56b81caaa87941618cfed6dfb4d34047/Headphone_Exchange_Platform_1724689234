@@ -14,5 +14,9 @@
     {
         "level": 1,
         "task_description": "This is the user's previous chat history with this AI:\nCan you describe the project a bit more?\nUser: change the image to a dinosaur\nAI: Alright, will change the image to a dinosaur.\nUser: Change the image to a dinosaur\nAI: Noted! Adding a button with \"Shoryouken\" text now.\nUser: add a button that says shoryouken\nAI: Acknowledged, working on adding the \"Shoryouken\" button.\nUser: Add a button that says shoryouken\n\nThis is the user's current request of changes to be made:\nchange the image to a dinosaur"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nUser requested the addition of a button labeled \"Shoryouken\" to their project. The AI acknowledged this request and stated it was working on incorporating the button. The AI further inquired if the user could provide a bit more detail about the project. Additionally, it is noted that the AI's training data extends up to October 2023.\nAI: Got it, I will change the image to a dinosaur.\nUser: change the image to a dinosaur\nAI: Alright, will change the image to a dinosaur.\nUser: Change the image to a dinosaur\nAI: Noted! Adding a button with \"Shoryouken\" text now.\nUser: add a button that says shoryouken\n\nThis is the user's current request of changes to be made:\nchange the image to a dinosaur"
     }
 ]

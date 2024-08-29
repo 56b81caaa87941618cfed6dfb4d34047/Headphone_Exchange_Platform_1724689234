@@ -1,5 +1,5 @@
 <template>
-    <!-- Features list -->
+    <!-- Features list    -->
     <div id="features-grid" class="grid md:grid-cols-3 gap-8 md:gap-12 bg-gradient-to-br from-pink-500 to-purple-700 bg-opacity-30 backdrop-filter backdrop-blur-lg p-8 rounded-xl shadow-lg">
         <!-- Feature 1 -->
         <div id="feature-1" class="bg-white bg-opacity-10 rounded-lg p-6 hover:bg-opacity-20 transition duration-300 backdrop-filter backdrop-blur-md shadow-lg">

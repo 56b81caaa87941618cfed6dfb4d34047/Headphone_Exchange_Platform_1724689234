@@ -143,7 +143,7 @@ export default {
                 message: ''
             };
         }
-        // End of Pirate King form submission method
+        // End of Pirate King fo  rm submission method
     }
 };
 </script>

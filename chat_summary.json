@@ -1,5 +1,50 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Contact Santa form\", \"checked\": true}, {\"feature\": \"Dark mode toggle for user preferences\", \"checked\": false}, {\"feature\": \"User profile management section\", \"checked\": false}, {\"feature\": \"Search bar for easy navigation\", \"checked\": true}, {\"feature\": \"Chat support for user queries\", \"checked\": false}], \"input_token_count\": 526, \"output_token_count\": 84, \"time_taken\": \"0:00:04.775767\"}",
+        "message_id": "guest29082024022206",
+        "timestamp": "29082024022212",
+        "component_file_name": "purple_feature_grid_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'm working on adding a contact Santa form.",
+        "message_id": "guest29082024022206",
+        "timestamp": "29082024022207",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "user",
+        "content": "Add a form to contact santa",
+        "message_id": "guest29082024022206",
+        "timestamp": "29082024022206",
+        "component_file_name": "purple_feature_grid_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific fields do you want to include in the 'Email Santa' form (e.g., name, email address, message)?\", \"option1\": \"Name, email, and message fields\", \"option2\": \"Name, message, and wish list fields\"}, {\"question 2\": \"How would you like the form to be visually styled (e.g., festive theme, simple design)?\", \"option1\": \"Festive theme with holiday decorations\", \"option2\": \"Simple design with clean lines\"}], \"input_token_count\": 266, \"output_token_count\": 118, \"time_taken\": \"0:00:05.239375\"}",
+        "message_id": "guest29082024020700",
+        "timestamp": "29082024020709",
+        "component_file_name": "purple_hero_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Email Santa form submission confirmation message\", \"checked\": true}, {\"feature\": \"Option to attach a photo or file with email\", \"checked\": false}, {\"feature\": \"Dropdown for selecting topics (e.g., gift ideas, holiday wishes)\", \"checked\": false}, {\"feature\": \"Social sharing options after sending an email\", \"checked\": false}, {\"feature\": \"Add a festive theme to the form\", \"checked\": true}], \"input_token_count\": 220, \"output_token_count\": 103, \"time_taken\": \"0:00:01.518594\"}",
+        "message_id": "guest29082024020700",
+        "timestamp": "29082024020705",
+        "component_file_name": "purple_hero_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will work on adding the email Santa form.",
         "message_id": "guest29082024020700",
@@ -45,54 +90,9 @@
         "div_action": ""
     },
     {
-        "role": "chat_acknowledge",
-        "content": "Got it, I'll be adding the shoryouken button now.",
-        "message_id": "guest29082024020331",
-        "timestamp": "29082024020332",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add an animated dinosaur theme to the homepage slider\", \"checked\": true}, {\"feature\": \"Include a dinosaur-themed progress bar for upload status\", \"checked\": false}, {\"feature\": \"Implement dinosaur avatar options for user profiles\", \"checked\": true}, {\"feature\": \"Add a 'Discover Rare Items' section with a dinosaur egg to unveil exclusive headphones\", \"checked\": false}, {\"feature\": \"Integrate a dinosaur roar sound effect when transactions are successfully completed\", \"checked\": true}, {\"feature\": \"Create a dinosaur fossil inspired background for the About Us page\", \"checked\": false}], \"input_token_count\": 379, \"output_token_count\": 137, \"time_taken\": \"0:00:05.808418\"}",
-        "message_id": "guest28082024135008",
-        "timestamp": "28082024135017",
-        "component_file_name": "purple_background_cta_component_1724689237",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Where would you like the dinosaur image to be placed within the app?\", \"option1\": \"Replace the current homepage banner\", \"option2\": \"Use it as a background image for the login page\"}, {\"question 2\": \"What style of dinosaur image do you prefer for the app's design?\", \"option1\": \"A realistic depiction\", \"option2\": \"A cartoonish/stylized version\"}], \"input_token_count\": 425, \"output_token_count\": 97, \"time_taken\": \"0:00:04.682616\"}",
-        "message_id": "guest28082024135008",
-        "timestamp": "28082024135016",
-        "component_file_name": "purple_background_cta_component_1724689237",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_acknowledge",
-        "content": "Sure, I am updating the image to a dinosaur.",
-        "message_id": "guest28082024135008",
-        "timestamp": "28082024135010",
-        "component_file_name": "",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "user",
-        "content": "change the image to a dinosaur",
-        "message_id": "guest28082024135008",
-        "timestamp": "28082024135010",
-        "component_file_name": "purple_background_cta_component_1724689237",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "summary",
-        "content": "The user engaged in a conversation with the AI assistant, requesting a change of an image to a dinosaur. The AI acknowledged this request by confirming the action. As they continued their discussion, the user received a list of additional features they might want to implement, including options for enhancing accessibility with features like alternative text for images and a 'featured headphones' section with high-resolution images, some of which were checked as implemented, while others remained unchecked. \n\nThe AI also presented a set of options regarding the 'Shoryouken' button, asking where it should be placed within the app and what action it should perform. The user expressed their desire to add the button, and the AI affirmed its understanding and stated it was working on adding it. Furthermore, after another interaction, the user reiterated the request to add a 'Shoryouken' button, which the AI acknowledged once more. The AI asked for additional details about the user's project to assist further. Overall, the conversation revolved around user interface enhancements and specific functionalities desired by the user.",
-        "timestamp": "29082024020701",
-        "message_id": "guest29082024020700"
+        "content": "In the conversation, the user asked the AI assistant to change an image to a dinosaur. The AI acknowledged this request multiple times, confirming that it would update the image accordingly. The user was then presented with various additional features they might want to implement in their app, including a dinosaur-themed progress bar, avatar options, and sound effects, detailing the status of each feature's implementation. Following this, the user requested the addition of a \"Shoryouken\" button, prompting the AI to provide options regarding the button's placement and functionality within the app. The AI also listed more features related to the \"Shoryouken\" button and acknowledged the user's requests confirming its progress in adding this functionality. Finally, the AI sought further clarity from the user by asking for a more detailed description of the project.",
+        "timestamp": "29082024022212",
+        "message_id": "guest29082024022206"
     }
 ]

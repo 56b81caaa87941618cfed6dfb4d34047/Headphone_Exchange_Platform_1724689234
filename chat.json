@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific sections of the app would you like to have dinosaur-themed text?\", \"option1\": \"All sections\", \"option2\": \"Only specific pages or features\"}, {\"question 2\": \"Would you prefer the dinosaur text to be humorous, educational, or a mix of both?\", \"option1\": \"Humorous\", \"option2\": \"Educational\"}], \"input_token_count\": 542, \"output_token_count\": 87, \"time_taken\": \"0:00:01.442214\"}",
+        "message_id": "guest29082024055402",
+        "timestamp": "29082024055406",
+        "component_file_name": "purple_feature_grid_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will change all the text to be about dinosaurs.",
         "message_id": "guest29082024055402",

@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific fields would you like included in the contact Santa form?\", \"option1\": \"Name, Email, and Message\", \"option2\": \"Name, Wish List, and Message\"}, {\"question 2\": \"How would you like the overall design of the form to look?\", \"option1\": \"Festive with Christmas colors and graphics\", \"option2\": \"Simple and clean with a focus on user input\"}], \"input_token_count\": 578, \"output_token_count\": 99, \"time_taken\": \"0:00:05.336044\"}",
+        "message_id": "guest29082024233625",
+        "timestamp": "29082024233637",
+        "component_file_name": "purple_feature_grid_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "add a contact santa form",
         "message_id": "guest29082024233625",

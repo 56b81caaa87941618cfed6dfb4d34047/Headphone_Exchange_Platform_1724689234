@@ -90,6 +90,29 @@
                 <p id="feature-6-description" class="flex-1 text-sm text-pink-200">Connect with fellow buccaneers, share tales of adventure, and discuss strategies for life on the high seas.</p>
             </div>
         </div>
+
+    <!-- Contact the Pirate King Form -->
+    <div class="mt-12 bg-white bg-opacity-10 rounded-lg p-8 hover:bg-opacity-20 transition duration-300 backdrop-filter backdrop-blur-md shadow-lg">
+        <h3 class="text-2xl font-bold text-pink-200 mb-6">Contact the Pirate King</h3>
+        <form @submit.prevent="submitPirateKingForm" class="space-y-4">
+            <div>
+                <label for="name" class="block text-sm font-medium text-pink-200">Yer Pirate Name</label>
+                <input type="text" id="name" v-model="pirateKingForm.name" required class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white placeholder-pink-200">
+            </div>
+            <div>
+                <label for="email" class="block text-sm font-medium text-pink-200">Yer Message in a Bottle Address</label>
+                <input type="email" id="email" v-model="pirateKingForm.email" required class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white placeholder-pink-200">
+            </div>
+            <div>
+                <label for="message" class="block text-sm font-medium text-pink-200">Yer Message to the Pirate King</label>
+                <textarea id="message" v-model="pirateKingForm.message" rows="4" required class="mt-1 block w-full rounded-md bg-white bg-opacity-20 border-transparent focus:border-pink-500 focus:bg-white focus:ring-0 text-white placeholder-pink-200"></textarea>
+            </div>
+            <div>
+                <button type="submit" class="w-full flex justify-center py-2 px-4 border border-transparent rounded-md shadow-sm text-sm font-medium text-white bg-pink-600 hover:bg-pink-700 focus:outline-none focus:ring-2 focus:ring-offset-2 focus:ring-pink-500 transition duration-300">
+                    Send to the Pirate King
+                </button>
+            </div>
+        </form>
     </div>
 
     <!-- Santa Contact Form -->
@@ -124,7 +147,7 @@ export default {
         return {
             expanded: false,
             tab: null,
-            santaForm: {
+            pirateKingForm: {
                 name: '',
                 email: '',
                 message: ''
@@ -132,18 +155,19 @@ export default {
         };
     },
     methods: {
+    methods: {
         // Pirate King form submission method
-        submitSantaForm() {
-            console.log('Form submitted:', this.santaForm);
+        submitPirateKingForm() {
+            console.log('Form submitted:', this.pirateKingForm);
             // Add your form submission logic here
             // Reset form after submission
-            this.santaForm = {
+            this.pirateKingForm = {
                 name: '',
                 email: '',
                 message: ''
             };
         }
-        // End of Pirate King fo  rm submission method
+        // End of Pirate King form submission method
     }
 };
 </script>

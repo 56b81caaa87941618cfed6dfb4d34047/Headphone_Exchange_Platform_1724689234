@@ -26,5 +26,9 @@
     {
         "level": 1,
         "task_description": "This is the user's current request of changes to be made:\nadd an email santa form"
+    },
+    {
+        "level": 1,
+        "task_description": "This is the user's previous chat history with this AI:\nThe user engaged in a conversation with the AI assistant, requesting a change of an image to a dinosaur. The AI acknowledged this request by confirming the action. As they continued their discussion, the user received a list of additional features they might want to implement, including options for enhancing accessibility with features like alternative text for images and a 'featured headphones' section with high-resolution images, some of which were checked as implemented, while others remained unchecked. \n\nThe AI also presented a set of options regarding the 'Shoryouken' button, asking where it should be placed within the app and what action it should perform. The user expressed their desire to add the button, and the AI affirmed its understanding and stated it was working on adding it. Furthermore, after another interaction, the user reiterated the request to add a 'Shoryouken' button, which the AI acknowledged once more. The AI asked for additional details about the user's project to assist further. Overall, the conversation revolved around user interface enhancements and specific functionalities desired by the user.\nAI: Sure, I will work on adding the email Santa form.\nUser: add an email santa form\nAI: Sure, I'll add a shoryouken button for you.\nUser: add a shoryouken button\nAI: Got it, I'll be adding the shoryouken button now.\nAI: Sure, I am updating the image to a dinosaur.\nUser: change the image to a dinosaur\n\nThis is the user's current request of changes to be made:\nAdd a form to contact santa"
     }
 ]

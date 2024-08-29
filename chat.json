@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Sure, I'll transform the wording to a pirate theme!",
+        "message_id": "guest29082024200041",
+        "timestamp": "29082024200042",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Change the wording to be all pirate themed versions of the word",
         "message_id": "guest29082024200041",

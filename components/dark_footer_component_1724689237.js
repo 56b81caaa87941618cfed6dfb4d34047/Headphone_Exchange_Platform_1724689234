@@ -95,6 +95,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             class="text-sm font-medium mb-2 text-white hover:text-pink-300 transition-colors duration-300"
           >
             About PirateSwap
+          </h6>
           <ul id="footer-block-2-list" class="text-sm space-y-2">
             <li>
               <a
@@ -103,6 +104,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 href="#0"
               >
                 Our Buccaneer Tale
+              </a>
             </li>
             <li>
               <a
@@ -111,6 +113,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 href="#0"
               >
                 How Pirates Swap
+              </a>
             </li>
             <li>
               <a
@@ -119,6 +122,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 href="#0"
               >
                 Pirate Jobs
+              </a>
             </li>
             <li>
               <a
@@ -127,6 +131,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 href="#0"
               >
                 Treasure News
+              </a>
             </li>
           </ul>
         </div>
@@ -144,6 +149,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 href="#0"
               >
                 Browse Ships
+              </a>
             </li>
             <li>
               <a
@@ -152,6 +158,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 href="#0"
               >
                 Trade Yer Booty
+              </a>
             </li>
             <li>
               <a
@@ -160,6 +167,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 href="#0"
               >
                 Pirate Training Program
+              </a>
             </li>
             <li>
               <a
@@ -168,6 +176,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 href="#0"
               >
                 Buccaneer Community
+              </a>
             </li>
           </ul>
         </div>
@@ -185,6 +194,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 href="#0"
               >
                 Pirate Care Center
+              </a>
             </li>
             <li>
               <a
@@ -193,6 +203,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 href="#0"
               >
                 Plunder Shipping & Returns
+              </a>
             </li>
             <li>
               <a
@@ -201,6 +212,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 href="#0"
               >
                 Pirate Flag Verification
+              </a>
             </li>
             <li>
               <a
@@ -209,6 +221,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 href="#0"
               >
                 Hail the Captain
+              </a>
             </li>
           </ul>
           </ul>

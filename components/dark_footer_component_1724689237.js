@@ -9,11 +9,11 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
 
 <template>
   <footer id="footer-section-container">
-    <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-gradient-to-r from-pink-500 to-purple-600 bg-opacity-50 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg">
+    <div class="max-w-6xl mx-auto px-4 sm:px-6 bg-gradient-to-r from-pink-500 to-purple-600 bg-opacity-30 backdrop-filter backdrop-blur-lg rounded-lg shadow-lg">
       <!-- Blocks -->
       <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
         <!-- 1st block -->
-        <div id="footer-block-1" class="sm:col-span-12 lg:col-span-4 order-1 lg:order-none p-6">
+        <div id="footer-block-1" class="sm:col-span-12 lg:col-span-4 order-1 lg:order-none p-6 bg-white bg-opacity-10 rounded-lg shadow-md">
           <div class="h-full flex flex-col sm:flex-row lg:flex-col justify-between">
             <div id="footer-logo-copyright" class="mb-4 sm:mb-0">
               <div class="mb-4">
@@ -27,17 +27,17 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                   <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Headphone_Exchange_Platform_1724689234/main/images/0bb1dcf5e4a94d73ad0398305e4786f2.jpeg" width="38" height="38" alt="Stellar" />
                 </a>
               </div>
-              <div id="footer-copyright" class="text-sm text-white">
+              <div id="footer-copyright" class="text-sm text-white hover:text-pink-200 transition-colors duration-300">
                 © 2023 DinoSwap. All rights reserved.
-                <span class="text-pink-200">-</span> Jurassic rights reserved.
+                <span class="text-pink-300">-</span> Jurassic rights reserved.
               </div>
             </div>
             <!-- Social links -->
             <ul id="footer-social-links" class="flex">
-              <li>
+              <li class="mr-2">
                 <a
                   id="footer-social-link-1"
-                  class="flex justify-center items-center transition duration-150 ease-in-out text-white hover:text-pink-200"
+                  class="flex justify-center items-center transition duration-300 ease-in-out text-white hover:text-pink-300"
                   href="#0"
                   aria-label="Twitter"
                 >
@@ -52,10 +52,10 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                   </svg>
                 </a>
               </li>
-              <li>
+              <li class="mr-2">
                 <a
                   id="footer-social-link-2"
-                  class="ml-2 flex justify-center items-center transition duration-150 ease-in-out text-white hover:text-pink-200"
+                  class="flex justify-center items-center transition duration-300 ease-in-out text-white hover:text-pink-300"
                   href="#0"
                   aria-label="Dev.to"
                 >
@@ -67,10 +67,10 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                   </svg>
                 </a>
               </li>
-              <li>
+              <li class="mr-2">
                 <a
                   id="footer-social-link-3"
-                  class="ml-2 flex justify-center items-center transition duration-150 ease-in-out text-white hover:text-pink-200"
+                  class="flex justify-center items-center transition duration-300 ease-in-out text-white hover:text-pink-300"
                   href="#0"
                   aria-label="Github"
                 >
@@ -90,10 +90,10 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         </div>
 
         <!-- 2nd block -->
-        <div id="footer-block-2" class="sm:col-span-6 md:col-span-3 lg:col-span-2 p-6">
+        <div id="footer-block-2" class="sm:col-span-6 md:col-span-3 lg:col-span-2 p-6 bg-white bg-opacity-10 rounded-lg shadow-md">
           <h6
             id="footer-block-2-title"
-            class="text-sm font-medium mb-2 text-white hover:text-pink-200"
+            class="text-sm font-medium mb-2 text-white hover:text-pink-300 transition-colors duration-300"
           >
             About DinoSwap
           </h6>
@@ -101,7 +101,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-2-link-1"
-                class="transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
                 Our Prehistoric Tale
@@ -110,7 +110,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-2-link-2"
-                class="transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
                 How Dinos Swap
@@ -119,7 +119,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-2-link-3"
-                class="transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
                 Dino Jobs
@@ -128,7 +128,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-2-link-4"
-                class="transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
                 Fossil News
@@ -138,15 +138,15 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         </div>
 
         <!-- 3rd block -->
-        <div id="footer-block-3" class="sm:col-span-6 md:col-span-3 lg:col-span-2 p-6">
-          <h6 id="footer-block-3-title" class="text-sm font-medium mb-2 text-white">
+        <div id="footer-block-3" class="sm:col-span-6 md:col-span-3 lg:col-span-2 p-6 bg-white bg-opacity-10 rounded-lg shadow-md">
+          <h6 id="footer-block-3-title" class="text-sm font-medium mb-2 text-white hover:text-pink-300 transition-colors duration-300">
             Discover
           </h6>
           <ul id="footer-block-3-list" class="text-sm space-y-2">
             <li>
               <a
                 id="footer-block-3-link-1"
-                class="transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
                 Browse Dinosaurs
@@ -155,7 +155,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-3-link-2"
-                class="transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
                 Trade Your Dino
@@ -164,7 +164,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-3-link-3"
-                class="transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
                 Dino Evolution Program
@@ -173,7 +173,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-3-link-4"
-                class="transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
                 Jurassic Community
@@ -183,15 +183,15 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         </div>
 
         <!-- 4th block -->
-        <div id="footer-block-4" class="sm:col-span-6 md:col-span-3 lg:col-span-2 p-6">
-          <h6 id="footer-block-4-title" class="text-sm font-medium mb-2 text-white">
+        <div id="footer-block-4" class="sm:col-span-6 md:col-span-3 lg:col-span-2 p-6 bg-white bg-opacity-10 rounded-lg shadow-md">
+          <h6 id="footer-block-4-title" class="text-sm font-medium mb-2 text-white hover:text-pink-300 transition-colors duration-300">
             Support
           </h6>
           <ul id="footer-block-4-list" class="text-sm space-y-2">
             <li>
               <a
                 id="footer-block-4-link-1"
-                class="transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
                 Dino Care Center
@@ -200,7 +200,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-4-link-2"
-                class="transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
                 Fossil Shipping & Returns
@@ -209,7 +209,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-4-link-3"
-                class="transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
                 Dino DNA Verification
@@ -218,7 +218,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             <li>
               <a
                 id="footer-block-4-link-4"
-                class="transition duration-150 ease-in-out text-white hover:text-pink-200"
+                class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
                 Roar at Us

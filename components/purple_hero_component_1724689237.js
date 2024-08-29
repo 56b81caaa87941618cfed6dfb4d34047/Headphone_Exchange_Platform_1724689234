@@ -47,6 +47,26 @@ INSTRUCTION: 3. Hero content: The main content of the landing page, including an
               </a>
             </div>
           </div>
+
+          <!-- Email Santa Form -->
+          <div id="email-santa-form" class="mt-8 max-w-md mx-auto">
+            <form @submit.prevent="submitEmailToSanta" class="bg-white p-6 rounded-lg shadow-md">
+              <h2 class="text-2xl font-bold mb-4 text-purple-600">Email Santa</h2>
+              <div class="mb-4">
+                <label for="name" class="block text-gray-700 text-sm font-bold mb-2">Your Name:</label>
+                <input type="text" id="name" v-model="santaForm.name" class="w-full px-3 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-purple-600" required>
+              </div>
+              <div class="mb-4">
+                <label for="message" class="block text-gray-700 text-sm font-bold mb-2">Your Message:</label>
+                <textarea id="message" v-model="santaForm.message" rows="4" class="w-full px-3 py-2 border rounded-md focus:outline-none focus:ring-2 focus:ring-purple-600" required></textarea>
+              </div>
+              <button type="submit" class="w-full bg-purple-600 text-white font-bold py-2 px-4 rounded-md hover:bg-purple-700 transition duration-300">
+                Send to Santa
+                <i class='bx bx-envelope ml-2'></i>
+              </button>
+            </form>
+          </div>
+
         </div>
       </div>
     </div>
@@ -59,8 +79,23 @@ export default {
   data() {
     return {
       expanded: false,
-      tab: null
+      tab: null,
+      santaForm: {
+        name: '',
+        message: ''
+      }
     };
+  },
+  methods: {
+    // Submit Email to Santa method
+    submitEmailToSanta() {
+      console.log('Sending email to Santa:', this.santaForm);
+      // Add your email sending logic here
+      // Reset form after submission
+      this.santaForm.name = '';
+      this.santaForm.message = '';
+    }
+    // End of Submit Email to Santa method
   }
 };
 </script>

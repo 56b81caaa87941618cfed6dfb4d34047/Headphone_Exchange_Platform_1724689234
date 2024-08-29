@@ -28,8 +28,8 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 </a>
               </div>
               <div id="footer-copyright" class="text-sm text-white">
-                © 2023 AudioSwap. All rights reserved.
-                <span class="text-pink-200">-</span> All rights reserved.
+                © 2023 DinoSwap. All rights reserved.
+                <span class="text-pink-200">-</span> Jurassic rights reserved.
               </div>
             </div>
             <!-- Social links -->
@@ -95,7 +95,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             id="footer-block-2-title"
             class="text-sm font-medium mb-2 text-white hover:text-pink-200"
           >
-            About AudioSwap
+            About DinoSwap
           </h6>
           <ul id="footer-block-2-list" class="text-sm space-y-2">
             <li>
@@ -104,7 +104,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="#0"
               >
-                Our Story
+                Our Prehistoric Tale
               </a>
             </li>
             <li>
@@ -113,7 +113,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="#0"
               >
-                How It Works
+                How Dinos Swap
               </a>
             </li>
             <li>
@@ -122,7 +122,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="#0"
               >
-                Careers
+                Dino Jobs
               </a>
             </li>
             <li>
@@ -131,7 +131,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="#0"
               >
-                Press
+                Fossil News
               </a>
             </li>
           </ul>
@@ -149,7 +149,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="#0"
               >
-                Browse Headphones
+                Browse Dinosaurs
               </a>
             </li>
             <li>
@@ -158,7 +158,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="#0"
               >
-                Sell Your Gear
+                Trade Your Dino
               </a>
             </li>
             <li>
@@ -167,7 +167,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="#0"
               >
-                Trade-in Program
+                Dino Evolution Program
               </a>
             </li>
             <li>
@@ -176,7 +176,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="#0"
               >
-                Audiophile Community
+                Jurassic Community
               </a>
             </li>
           </ul>
@@ -194,7 +194,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="#0"
               >
-                Help Center
+                Dino Care Center
               </a>
             </li>
             <li>
@@ -203,7 +203,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="#0"
               >
-                Shipping & Returns
+                Fossil Shipping & Returns
               </a>
             </li>
             <li>
@@ -212,7 +212,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="#0"
               >
-                Authentication Process
+                Dino DNA Verification
               </a>
             </li>
             <li>
@@ -221,7 +221,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-150 ease-in-out text-white hover:text-pink-200"
                 href="#0"
               >
-                Contact Us
+                Roar at Us
               </a>
             </li>
           </ul>

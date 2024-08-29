@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"Are there specific pirate terms or phrases you want to include to maintain the original intent?\", \"option1\": \"Yes, provide a list of terms\", \"option2\": \"No, I trust you to choose the appropriate terms\"}, {\"question 2\": \"Should the pirate theme be applied uniformly throughout the app or just in certain sections?\", \"option1\": \"Uniformly across the entire app\", \"option2\": \"Only in key sections of the app\"}], \"input_token_count\": 559, \"output_token_count\": 108, \"time_taken\": \"0:00:06.543215\"}",
+        "message_id": "guest29082024235530",
+        "timestamp": "29082024235543",
+        "component_file_name": "purple_feature_grid_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "\"Certainly, I'm transforming the text into pirate lingo now!\"",
         "message_id": "guest29082024235530",

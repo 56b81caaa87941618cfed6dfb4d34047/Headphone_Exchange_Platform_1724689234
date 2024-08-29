@@ -172,21 +172,6 @@ export default {
                 message: ''
             };
         }
-        // End of Santa email submission method
-    methods: {
-        // Santa form submission method
-        submitSantaForm() {
-            console.log('Form submitted:', this.santaForm);
-            // Add your form submission logic here
-            // Reset form after submission
-            this.santaForm = {
-                name: '',
-                email: '',
-                message: ''
-            };
-        }
-        // End of Santa form submission method
-    }
 };
 </script>
 

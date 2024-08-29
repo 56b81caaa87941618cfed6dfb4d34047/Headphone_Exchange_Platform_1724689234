@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'm working on adding a contact Santa form.",
+        "message_id": "guest29082024022206",
+        "timestamp": "29082024022207",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Add a form to contact santa",
         "message_id": "guest29082024022206",

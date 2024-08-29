@@ -13,7 +13,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
       <!-- Blocks -->
       <div class="grid sm:grid-cols-12 gap-8 py-8 md:py-12">
         <!-- 1st block -->
-        <div id="footer-block-1" class="sm:col-span-12 lg:col-span-4 order-1 lg:order-none p-6 bg-white bg-opacity-10 rounded-lg shadow-md">
+        <div id="footer-block-1" class="sm:col-span-12 lg:col-span-4 order-1 lg:order-none p-6 bg-white bg-opacity-10 backdrop-filter backdrop-blur-md rounded-lg shadow-lg">
           <div class="h-full flex flex-col sm:flex-row lg:flex-col justify-between">
             <div id="footer-logo-copyright" class="mb-4 sm:mb-0">
               <div class="mb-4">
@@ -30,7 +30,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
               <div id="footer-copyright" class="text-sm text-white hover:text-pink-200 transition-colors duration-300">
                 © 2023 PirateSwap. All rights reserved.
                 <span class="text-pink-300">-</span> Davy Jones' locker rights reserved.
-            </div>
+              </div>
             <!-- Social links -->
             <ul id="footer-social-links" class="flex">
               <li class="mr-2">
@@ -89,7 +89,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         </div>
 
         <!-- 2nd block -->
-        <div id="footer-block-2" class="sm:col-span-6 md:col-span-3 lg:col-span-2 p-6 bg-white bg-opacity-10 rounded-lg shadow-md">
+        <div id="footer-block-2" class="sm:col-span-6 md:col-span-3 lg:col-span-2 p-6 bg-white bg-opacity-10 backdrop-filter backdrop-blur-md rounded-lg shadow-lg">
           <h6
             id="footer-block-2-title"
             class="text-sm font-medium mb-2 text-white hover:text-pink-300 transition-colors duration-300"
@@ -137,7 +137,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         </div>
 
         <!-- 3rd block -->
-        <div id="footer-block-3" class="sm:col-span-6 md:col-span-3 lg:col-span-2 p-6 bg-white bg-opacity-10 rounded-lg shadow-md">
+        <div id="footer-block-3" class="sm:col-span-6 md:col-span-3 lg:col-span-2 p-6 bg-white bg-opacity-10 backdrop-filter backdrop-blur-md rounded-lg shadow-lg">
           <h6 id="footer-block-3-title" class="text-sm font-medium mb-2 text-white hover:text-pink-300 transition-colors duration-300">
             Discover
           </h6>
@@ -182,7 +182,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         </div>
 
         <!-- 4th block -->
-        <div id="footer-block-4" class="sm:col-span-6 md:col-span-3 lg:col-span-2 p-6 bg-white bg-opacity-10 rounded-lg shadow-md">
+        <div id="footer-block-4" class="sm:col-span-6 md:col-span-3 lg:col-span-2 p-6 bg-white bg-opacity-10 backdrop-filter backdrop-blur-md rounded-lg shadow-lg">
           <h6 id="footer-block-4-title" class="text-sm font-medium mb-2 text-white hover:text-pink-300 transition-colors duration-300">
             Support
           </h6>
@@ -228,24 +228,24 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         </div>
 
         <!-- Santa Contact Form -->
-        <div id="santa-contact-form" class="sm:col-span-12 lg:col-span-4 p-6 bg-white bg-opacity-10 rounded-lg shadow-md">
+        <div id="santa-contact-form" class="sm:col-span-12 lg:col-span-4 p-6 bg-white bg-opacity-10 backdrop-filter backdrop-blur-md rounded-lg shadow-lg">
           <h6 class="text-sm font-medium mb-4 text-white hover:text-pink-300 transition-colors duration-300">
             Contact the Pirate King
           </h6>
           <form @submit.prevent="submitSantaForm" class="space-y-4">
             <div>
-              <label for="name" class="block text-sm font-medium text-white mb-1">Name</label>
+              <input type="text" id="name" v-model="santaForm.name" class="w-full px-3 py-2 text-white bg-purple-700 bg-opacity-50 rounded-md focus:outline-none focus:ring-2 focus:ring-pink-300 backdrop-filter backdrop-blur-sm" required>
               <input type="text" id="name" v-model="santaForm.name" class="w-full px-3 py-2 text-white bg-purple-700 bg-opacity-50 rounded-md focus:outline-none focus:ring-2 focus:ring-pink-300" required>
             </div>
             <div>
-              <label for="email" class="block text-sm font-medium text-white mb-1">Email</label>
+              <input type="email" id="email" v-model="santaForm.email" class="w-full px-3 py-2 text-white bg-purple-700 bg-opacity-50 rounded-md focus:outline-none focus:ring-2 focus:ring-pink-300 backdrop-filter backdrop-blur-sm" required>
               <input type="email" id="email" v-model="santaForm.email" class="w-full px-3 py-2 text-white bg-purple-700 bg-opacity-50 rounded-md focus:outline-none focus:ring-2 focus:ring-pink-300" required>
             </div>
             <div>
-              <label for="message" class="block text-sm font-medium text-white mb-1">Message</label>
+              <textarea id="message" v-model="santaForm.message" rows="4" class="w-full px-3 py-2 text-white bg-purple-700 bg-opacity-50 rounded-md focus:outline-none focus:ring-2 focus:ring-pink-300 backdrop-filter backdrop-blur-sm" required></textarea>
               <textarea id="message" v-model="santaForm.message" rows="4" class="w-full px-3 py-2 text-white bg-purple-700 bg-opacity-50 rounded-md focus:outline-none focus:ring-2 focus:ring-pink-300" required></textarea>
             </div>
-            <button type="submit" class="w-full px-4 py-2 text-white bg-gradient-to-r from-red-500 to-black rounded-md hover:from-red-600 hover:to-gray-800 transition duration-300 ease-in-out">
+            <button type="submit" class="w-full px-4 py-2 text-white bg-gradient-to-r from-pink-500 to-purple-600 rounded-md hover:from-pink-600 hover:to-purple-700 transition duration-300 ease-in-out backdrop-filter backdrop-blur-sm">
               Send to Pirate King
             </button>
           </form>

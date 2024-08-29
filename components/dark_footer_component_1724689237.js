@@ -225,6 +225,31 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
               </a>
             </li>
           </ul>
+          </ul>
+        </div>
+
+        <!-- Santa Contact Form -->
+        <div id="santa-contact-form" class="sm:col-span-12 lg:col-span-4 p-6 bg-white bg-opacity-10 rounded-lg shadow-md">
+          <h6 class="text-sm font-medium mb-4 text-white hover:text-pink-300 transition-colors duration-300">
+            Contact Santa
+          </h6>
+          <form @submit.prevent="submitSantaForm" class="space-y-4">
+            <div>
+              <label for="name" class="block text-sm font-medium text-white mb-1">Name</label>
+              <input type="text" id="name" v-model="santaForm.name" class="w-full px-3 py-2 text-white bg-purple-700 bg-opacity-50 rounded-md focus:outline-none focus:ring-2 focus:ring-pink-300" required>
+            </div>
+            <div>
+              <label for="email" class="block text-sm font-medium text-white mb-1">Email</label>
+              <input type="email" id="email" v-model="santaForm.email" class="w-full px-3 py-2 text-white bg-purple-700 bg-opacity-50 rounded-md focus:outline-none focus:ring-2 focus:ring-pink-300" required>
+            </div>
+            <div>
+              <label for="message" class="block text-sm font-medium text-white mb-1">Message</label>
+              <textarea id="message" v-model="santaForm.message" rows="4" class="w-full px-3 py-2 text-white bg-purple-700 bg-opacity-50 rounded-md focus:outline-none focus:ring-2 focus:ring-pink-300" required></textarea>
+            </div>
+            <button type="submit" class="w-full px-4 py-2 text-white bg-gradient-to-r from-red-500 to-green-500 rounded-md hover:from-red-600 hover:to-green-600 transition duration-300 ease-in-out">
+              Send to Santa
+            </button>
+          </form>
         </div>
       </div>
     </div>
@@ -238,7 +263,23 @@ export default {
     return {
       expanded: false,
       tab: null,
+      santaForm: {
+        name: '',
+        email: '',
+        message: ''
+      }
     };
   },
+  methods: {
+    // Santa form submission method
+    submitSantaForm() {
+      console.log('Santa form submitted:', this.santaForm);
+      // Add your form submission logic here
+      // For example, you might want to send this data to a server
+      // Reset the form after submission
+      this.santaForm = { name: '', email: '', message: '' };
+    }
+    // End of Santa form submission method
+  }
 };
 </script>

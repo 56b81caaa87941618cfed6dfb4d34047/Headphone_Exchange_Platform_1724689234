@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "\"Certainly, I'm transforming the text into pirate lingo now!\"",
+        "message_id": "guest29082024235530",
+        "timestamp": "29082024235532",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "Try to keep the original intent of the text while making it pirate themed",
         "message_id": "guest29082024235530",

@@ -132,8 +132,7 @@ export default {
         };
     },
     methods: {
-        // Pirate King form submission method
-        // Dinosaur Expert form submission method
+        submitSantaForm() {
             console.log('Form submitted:', this.santaForm);
             // Add your form submission logic here
             // Reset form after submission

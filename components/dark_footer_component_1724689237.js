@@ -24,7 +24,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                   href="index.html"
                   aria-label="© 2023 AudioSwap. All rights reserved."
                 >
-                  <img src="./images/logo.svg" width="38" height="38" alt="Stellar" />
+                  <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Headphone_Exchange_Platform_1724689234/main/images/0bb1dcf5e4a94d73ad0398305e4786f2.jpeg" width="38" height="38" alt="Stellar" />
                 </a>
               </div>
               <div id="footer-copyright" class="text-sm text-white">

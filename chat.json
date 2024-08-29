@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_ui_checklist",
+        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Email Santa form submission confirmation message\", \"checked\": true}, {\"feature\": \"Option to attach a photo or file with email\", \"checked\": false}, {\"feature\": \"Dropdown for selecting topics (e.g., gift ideas, holiday wishes)\", \"checked\": false}, {\"feature\": \"Social sharing options after sending an email\", \"checked\": false}, {\"feature\": \"Add a festive theme to the form\", \"checked\": true}], \"input_token_count\": 220, \"output_token_count\": 103, \"time_taken\": \"0:00:01.518594\"}",
+        "message_id": "guest29082024020700",
+        "timestamp": "29082024020705",
+        "component_file_name": "purple_hero_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will work on adding the email Santa form.",
         "message_id": "guest29082024020700",

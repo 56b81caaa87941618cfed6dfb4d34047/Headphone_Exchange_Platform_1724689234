@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific elements of the text would you like to focus on to make it turtle-themed?\", \"option1\": \"Make it more whimsical and fun\", \"option2\": \"Emphasize nature and ocean themes\"}, {\"question 2\": \"Are there any specific turtle-related terms or phrases you want included in the text?\", \"option1\": \"Yes, I have specific terms in mind\", \"option2\": \"No, just a general turtle theme will work\"}], \"input_token_count\": 589, \"output_token_count\": 108, \"time_taken\": \"0:00:06.179109\"}",
+        "message_id": "guest30082024012200",
+        "timestamp": "30082024012215",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the text to be turtle themed",
         "message_id": "guest30082024012200",

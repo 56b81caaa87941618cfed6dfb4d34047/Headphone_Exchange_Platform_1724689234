@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific pirate-related phrases or terminology would you like to include in the text?\", \"option1\": \"Traditional pirate slang\", \"option2\": \"Modern pirate references\"}, {\"question 2\": \"How do you envision the overall tone of the pirate-themed text?\", \"option1\": \"Humorous and light-hearted\", \"option2\": \"Serious and adventurous\"}], \"input_token_count\": 597, \"output_token_count\": 88, \"time_taken\": \"0:00:06.158834\"}",
+        "message_id": "guest30082024012919",
+        "timestamp": "30082024012930",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Absolutely, I'm transforming the text to a pirate theme.",
         "message_id": "guest30082024012919",

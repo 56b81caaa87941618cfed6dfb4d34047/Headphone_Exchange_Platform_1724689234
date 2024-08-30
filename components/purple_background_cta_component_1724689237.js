@@ -25,27 +25,21 @@
         <!-- Content -->
         <div id="content" class="max-w-3xl mx-auto text-center">
           <div id="content-subtitle" class="flex">
-            <div id="content-subtitle-text" class="flex-1 font-medium bg-clip-text pb-3 text-transparent bg-gradient-to-r from-pink-500 to-purple-300">
-              Plunder, trade, and swap premium ear trumpets with ease
-            </div>
+              Shell out, swim, and swap premium turtle shells with ease
           </div>
           <div class="flex" id="content-title-container">
-            <h2 id="content-title" class="flex-1 h2 bg-clip-text pb-4 bg-gradient-to-r from-pink-200 via-purple-300 to-pink-200">
-              Amplify Yer Seafarin' Sound Experience
-            </h2>
+              Enhance Your Underwater Sound Experience
           </div>
           <div class="flex" id="content-body-container">
-            <p id="content-body" class="flex-1 text-lg mb-8 text-purple-100">
-              Discover, barter, and upgrade yer ear trumpets in the ultimate buccaneer's marketplace
-            </p>
+              Discover, trade, and upgrade your turtle shells in the ultimate sea turtle marketplace
           </div>
           <a id="content-cta-button" href="#0" class="btn transition duration-150 ease-in-out group text-purple-900 bg-gradient-to-r from-pink-300 via-purple-200 to-pink-300 hover:bg-white hover:text-purple-600 rounded-lg px-6 py-3">
-            Set Sail
+            Dive In
             <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-700">-&gt;</span>
           </a>
 
           <a id="shoryuken-button" href="#0" class="btn transition duration-150 ease-in-out group text-purple-900 bg-gradient-to-r from-pink-300 via-purple-200 to-pink-300 hover:bg-white hover:text-purple-600 rounded-lg px-6 py-3 mt-4">
-            Cannon Fire
+            Shell Blast
           </a>
 
           <!-- Replaced Image -->

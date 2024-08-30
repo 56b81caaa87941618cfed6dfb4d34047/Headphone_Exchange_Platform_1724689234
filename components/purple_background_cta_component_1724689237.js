@@ -48,8 +48,8 @@
             Cannon Fire
           </a>
 
-          <!-- Added Image -->
-          <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Headphone_Exchange_Platform_1724689234/main/images/b8ad5b4c4f024c0287e430249a1e7a70.jpeg" alt="CTA Image" class="mt-8 rounded-lg w-full max-w-lg mx-auto" />
+          <!-- Replaced Image -->
+          <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Headphone_Exchange_Platform_1724689234/main/images/0d86927885db4a53914c0cc3ca011f92.jpeg" alt="CTA Image" class="mt-8 rounded-lg w-full max-w-lg mx-auto" />
         </div>
       </div>
     </div>

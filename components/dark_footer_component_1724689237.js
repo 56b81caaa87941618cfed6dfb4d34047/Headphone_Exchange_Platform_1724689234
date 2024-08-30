@@ -28,8 +28,8 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 </a>
               </div>
               <div id="footer-copyright" class="text-sm text-white hover:text-pink-200 transition-colors duration-300">
-                © 2023 PirateSwap. All rights reserved.
-                <span class="text-pink-300">-</span> Davy Jones' locker rights reserved.
+                © 2023 DinoSwap. All rights reserved.
+                <span class="text-pink-300">-</span> Prehistoric rights reserved.
               </div>
             <!-- Social links -->
             <ul id="footer-social-links" class="flex">
@@ -94,7 +94,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
             id="footer-block-2-title"
             class="text-sm font-medium mb-2 text-white hover:text-pink-300 transition-colors duration-300"
           >
-            About PirateSwap
+            About DinoSwap
           </h6>
           <ul id="footer-block-2-list" class="text-sm space-y-2">
             <li>
@@ -103,7 +103,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
-                Our Buccaneer Tale
+                Our Jurassic Tale
               </a>
             </li>
             <li>
@@ -112,7 +112,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
-                How Pirates Swap
+                How Dinos Swap
               </a>
             </li>
             <li>
@@ -121,7 +121,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
-                Pirate Jobs
+                Dino Jobs
               </a>
             </li>
             <li>
@@ -130,7 +130,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
-                Treasure News
+                Fossil News
               </a>
             </li>
           </ul>
@@ -148,7 +148,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
-                Browse Ships
+                Browse Dinos
               </a>
             </li>
             <li>
@@ -157,7 +157,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
-                Trade Yer Booty
+                Trade Yer Fossils
               </a>
             </li>
             <li>
@@ -166,7 +166,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
-                Pirate Training Program
+                Dino Training Program
               </a>
             </li>
             <li>
@@ -175,7 +175,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
-                Buccaneer Community
+                Jurassic Community
               </a>
             </li>
           </ul>
@@ -193,7 +193,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
-                Pirate Care Center
+                Dino Care Center
               </a>
             </li>
             <li>
@@ -202,7 +202,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
-                Plunder Shipping & Returns
+                Fossil Shipping & Returns
               </a>
             </li>
             <li>
@@ -211,7 +211,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
-                Pirate Flag Verification
+                Dino DNA Verification
               </a>
             </li>
             <li>
@@ -220,7 +220,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
                 class="transition duration-300 ease-in-out text-white hover:text-pink-300"
                 href="#0"
               >
-                Hail the Captain
+                Hail the T-Rex
               </a>
             </li>
           </ul>
@@ -230,7 +230,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
         <!-- Santa Contact Form -->
         <div id="santa-contact-form" class="sm:col-span-12 lg:col-span-4 p-6 bg-white bg-opacity-10 backdrop-filter backdrop-blur-md rounded-lg shadow-lg">
           <h6 class="text-sm font-medium mb-4 text-white hover:text-pink-300 transition-colors duration-300">
-            Contact the Pirate King
+            Contact the Dino King
           </h6>
           <form @submit.prevent="submitSantaForm" class="space-y-4">
             <div>
@@ -246,7 +246,7 @@ INSTRUCTION: 5. The fifth column covers legal information such as the refund pol
               <textarea id="message" v-model="santaForm.message" rows="4" class="w-full px-3 py-2 text-white bg-purple-700 bg-opacity-50 rounded-md focus:outline-none focus:ring-2 focus:ring-pink-300" required></textarea>
             </div>
             <button type="submit" class="w-full px-4 py-2 text-white bg-gradient-to-r from-pink-500 to-purple-600 rounded-md hover:from-pink-600 hover:to-purple-700 transition duration-300 ease-in-out backdrop-filter backdrop-blur-sm">
-              Send to Pirate King
+              Send to Dino King
             </button>
           </form>
         </div>
@@ -272,7 +272,7 @@ export default {
   methods: {
     // Santa form submission method
     submitSantaForm() {
-      console.log('Pirate King form submitted:', this.santaForm);
+      console.log('Dino King form submitted:', this.santaForm);
       // Add your form submission logic here
       // For example, you might want to send this data to a server
       // Reset the form after submission

@@ -43,7 +43,7 @@
           </a>
 
           <!-- Replaced Image -->
-          <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Headphone_Exchange_Platform_1724689234/main/images/13ac007ebd814096b63dd27a723fd9fd.jpeg" alt="CTA Image" class="mt-8 rounded-lg w-full max-w-lg mx-auto" />
+          <img src="https://raw.githubusercontent.com/56b81caaa87941618cfed6dfb4d34047/Headphone_Exchange_Platform_1724689234/main/images/cee4720d818840ee99729662dd1adae7.jpeg" alt="CTA Image" class="mt-8 rounded-lg w-full max-w-lg mx-auto" />
         </div>
       </div>
     </div>

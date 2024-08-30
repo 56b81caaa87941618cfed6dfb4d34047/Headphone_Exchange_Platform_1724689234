@@ -1,5 +1,14 @@
 [
     {
+        "role": "user",
+        "content": "change the image to be a hadoken",
+        "message_id": "guest30082024013348",
+        "timestamp": "30082024013349",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_ui_checklist",
         "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a section for user profiles to trade and track headphone exchanges\", \"checked\": true}, {\"feature\": \"Implement a rating system for buyers and sellers\", \"checked\": false}, {\"feature\": \"Add a wishlist feature to save desired headphones\", \"checked\": false}, {\"feature\": \"Include a search filter for headphone types and brands\", \"checked\": true}, {\"feature\": \"Create a comparison tool for users to compare headphone features\", \"checked\": false}], \"input_token_count\": 543, \"output_token_count\": 108, \"time_taken\": \"0:00:01.430590\"}",
         "message_id": "guest30082024013051",

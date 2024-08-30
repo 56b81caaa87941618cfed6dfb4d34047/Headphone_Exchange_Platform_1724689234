@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What style of hadoken image are you envisioning for your app? (e.g., realistic, cartoonish)\", \"option1\": \"Realistic\", \"option2\": \"Cartoonish\"}, {\"question 2\": \"Where would you like the hadoken image to be placed in the app? (e.g., header, main content area)\", \"option1\": \"Header\", \"option2\": \"Main content area\"}], \"input_token_count\": 587, \"output_token_count\": 101, \"time_taken\": \"0:00:01.411314\"}",
+        "message_id": "guest30082024013348",
+        "timestamp": "30082024013353",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I'll replace the image with a hadoken.",
         "message_id": "guest30082024013348",

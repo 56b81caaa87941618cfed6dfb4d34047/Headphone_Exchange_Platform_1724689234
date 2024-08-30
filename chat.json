@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific transformer characters or themes do you want incorporated into the text?\", \"option1\": \"Include popular characters like Optimus Prime and Bumblebee\", \"option2\": \"Focus on general transformer mechanics and vehicle transformations\"}, {\"question 2\": \"Do you prefer a playful tone or a more serious tone for the transformer-themed text?\", \"option1\": \"A playful and fun tone\", \"option2\": \"A serious and action-oriented tone\"}], \"input_token_count\": 660, \"output_token_count\": 104, \"time_taken\": \"0:00:01.434605\"}",
+        "message_id": "guest30082024004823",
+        "timestamp": "30082024004829",
+        "component_file_name": "dark_footer_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, working on changing all text to be transformer themed.",
         "message_id": "guest30082024004823",

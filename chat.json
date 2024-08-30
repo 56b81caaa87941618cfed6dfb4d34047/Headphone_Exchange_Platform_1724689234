@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'm working on changing the image to a headphone.",
+        "message_id": "guest30082024170205",
+        "timestamp": "30082024170206",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to a headphone",
         "message_id": "guest30082024170205",

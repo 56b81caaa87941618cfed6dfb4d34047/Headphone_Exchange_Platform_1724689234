@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific tone or style do you want for the transformer themed text?\", \"option1\": \"Heroic and action-packed\", \"option2\": \"Humorous and playful\"}, {\"question 2\": \"Would you like to incorporate any specific transformer characters or terminology into the text?\", \"option1\": \"Yes, include specific characters\", \"option2\": \"No, keep it general\"}], \"input_token_count\": 639, \"output_token_count\": 92, \"time_taken\": \"0:00:01.265916\"}",
+        "message_id": "guest30082024004914",
+        "timestamp": "30082024004928",
+        "component_file_name": "dark_footer_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Sure, I will change all the text to a transformer theme.",
         "message_id": "guest30082024004914",

@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific features or elements would you like included in the cyborg giraffe image?\", \"option1\": \"Futuristic elements like LEDs and circuits\", \"option2\": \"A blend of natural giraffe features with metallic parts\"}, {\"question 2\": \"Would you prefer a realistic style for the cyborg giraffe image or a more cartoonish look?\", \"option1\": \"Realistic\", \"option2\": \"Cartoonish\"}], \"input_token_count\": 589, \"output_token_count\": 104, \"time_taken\": \"0:00:02.030845\"}",
+        "message_id": "guest30082024013051",
+        "timestamp": "30082024013101",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to be a cyborg giraffe",
         "message_id": "guest30082024013051",

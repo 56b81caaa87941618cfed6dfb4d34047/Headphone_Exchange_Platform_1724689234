@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific section or page do you want the robotic turtle image to replace?\", \"option1\": \"Homepage banner\", \"option2\": \"Product listing page\"}, {\"question 2\": \"Do you have any specific design elements or colors in mind for how the robotic turtle should be styled?\", \"option1\": \"Futuristic and sleek\", \"option2\": \"Colorful and playful\"}], \"input_token_count\": 269, \"output_token_count\": 93, \"time_taken\": \"0:00:01.346232\"}",
+        "message_id": "guest30082024012257",
+        "timestamp": "30082024012305",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to be a robotic turtle",
         "message_id": "guest30082024012257",

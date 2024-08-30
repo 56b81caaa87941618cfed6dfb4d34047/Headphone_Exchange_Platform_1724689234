@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Alright, I\u2019m working on making all the text dinosaur themed.",
+        "message_id": "guest30082024004444",
+        "timestamp": "30082024004445",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change all of the text to be dinosaur themed",
         "message_id": "guest30082024004444",

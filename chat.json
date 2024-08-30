@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific dinosaur terms or phrases would you like to include to enhance the theme?\", \"option1\": \"Use popular dinosaur names and references\", \"option2\": \"Focus on a specific dinosaur type or era\"}, {\"question 2\": \"Do you have any particular sections or features of the app where you want the dinosaur theme to be more pronounced?\", \"option1\": \"All sections equally\", \"option2\": \"Just the header and footer sections\"}], \"input_token_count\": 637, \"output_token_count\": 105, \"time_taken\": \"0:00:05.878443\"}",
+        "message_id": "guest30082024004444",
+        "timestamp": "30082024004453",
+        "component_file_name": "dark_footer_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Alright, I\u2019m working on making all the text dinosaur themed.",
         "message_id": "guest30082024004444",

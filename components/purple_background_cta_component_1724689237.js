@@ -25,21 +25,21 @@
         <!-- Content -->
         <div id="content" class="max-w-3xl mx-auto text-center">
           <div id="content-subtitle" class="flex">
-              Hoist yer colors and trade yer booty with ease, ye scurvy dogs!
+              Dive into the depths and trade your treasures with ease, ye landlubbers!
           </div>
           <div class="flex" id="content-title-container">
-              Enhance Yer Seafarin' Adventure, Ye Landlubbers!
+              Enhance Your Underwater Adventure, Ye Guppies!
           </div>
           <div class="flex" id="content-body-container">
-              Discover, trade, and upgrade yer pirate booty in the ultimate buccaneer's marketplace
+              Discover, trade, and upgrade your shark gear in the ultimate ocean marketplace
           </div>
           <a id="content-cta-button" href="#0" class="btn transition duration-150 ease-in-out group text-purple-900 bg-gradient-to-r from-pink-300 via-purple-200 to-pink-300 hover:bg-white hover:text-purple-600 rounded-lg px-6 py-3">
-            Set Sail, Ye Scallywags!
+            Swim with the Big Fish!
             <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-700">-&gt;</span>
           </a>
 
           <a id="shoryuken-button" href="#0" class="btn transition duration-150 ease-in-out group text-purple-900 bg-gradient-to-r from-pink-300 via-purple-200 to-pink-300 hover:bg-white hover:text-purple-600 rounded-lg px-6 py-3 mt-4">
-            Fire the Cannons!
+            Chomp the Competition!
           </a>
 
           <!-- Replaced Image -->

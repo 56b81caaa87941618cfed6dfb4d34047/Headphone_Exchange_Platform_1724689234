@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I will change the image to a shark.",
+        "message_id": "guest30082024011439",
+        "timestamp": "30082024011441",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to be a shark",
         "message_id": "guest30082024011439",

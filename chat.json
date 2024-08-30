@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of shark image are you envisioning for the app - cartoonish or realistic?\", \"option1\": \"Cartoonish shark\", \"option2\": \"Realistic shark\"}, {\"question 2\": \"Would you like the shark image to be a background or a focal point in the design?\", \"option1\": \"Background image\", \"option2\": \"Focal point image\"}], \"input_token_count\": 268, \"output_token_count\": 93, \"time_taken\": \"0:00:01.219763\"}",
+        "message_id": "guest30082024011439",
+        "timestamp": "30082024011444",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "chat_acknowledge",
         "content": "Okay, I will change the image to a shark.",
         "message_id": "guest30082024011439",

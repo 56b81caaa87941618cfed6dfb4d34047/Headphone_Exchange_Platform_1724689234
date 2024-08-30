@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_acknowledge",
+        "content": "Okay, I'll replace the image with a hadoken.",
+        "message_id": "guest30082024013348",
+        "timestamp": "30082024013349",
+        "component_file_name": "",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the image to be a hadoken",
         "message_id": "guest30082024013348",

@@ -1,5 +1,14 @@
 [
     {
+        "role": "chat_qna",
+        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What specific traits or terminology do you want the robot turtle-themed text to include?\", \"option1\": \"Focus on futuristic language and technology terms\", \"option2\": \"Emphasize playful and friendly robot characteristics\"}, {\"question 2\": \"Should the tone of the text be more serious, reflecting a robotic perspective, or lighthearted for a younger audience?\", \"option1\": \"Serious and technical\", \"option2\": \"Lighthearted and fun\"}], \"input_token_count\": 584, \"output_token_count\": 106, \"time_taken\": \"0:00:02.048738\"}",
+        "message_id": "guest30082024012426",
+        "timestamp": "30082024012436",
+        "component_file_name": "purple_background_cta_component_1724689237",
+        "div_id": "",
+        "div_action": ""
+    },
+    {
         "role": "user",
         "content": "change the text to be robot turtle themed",
         "message_id": "guest30082024012426",

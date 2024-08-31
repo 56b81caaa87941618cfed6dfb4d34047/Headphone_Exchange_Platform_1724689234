@@ -1,23 +1,5 @@
 [
     {
-        "role": "chat_ui_checklist",
-        "content": "{\"status\": \"success\", \"ui_elements_checklist\": [{\"feature\": \"Add a headphone image gallery for better visuals\", \"checked\": true}, {\"feature\": \"Implement zoom functionality on headphone images\", \"checked\": false}, {\"feature\": \"Allow users to upload their headphone images for trade\", \"checked\": false}, {\"feature\": \"Introduce a comparison tool for different headphone models\", \"checked\": false}], \"input_token_count\": 221, \"output_token_count\": 80, \"time_taken\": \"0:00:01.630616\"}",
-        "message_id": "guest30082024170205",
-        "timestamp": "30082024170213",
-        "component_file_name": "purple_background_cta_component_1724689237",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
-        "role": "chat_qna",
-        "content": "{\"status\": \"success\", \"qna\": [{\"question 1\": \"What type of headphones would you like to feature in the image?\", \"option1\": \"Over-ear headphones\", \"option2\": \"In-ear headphones\"}, {\"question 2\": \"Would you prefer a realistic image or a more stylized graphic representation of the headphones?\", \"option1\": \"Realistic image\", \"option2\": \"Stylized graphic\"}], \"input_token_count\": 267, \"output_token_count\": 86, \"time_taken\": \"0:00:01.194529\"}",
-        "message_id": "guest30082024170205",
-        "timestamp": "30082024170210",
-        "component_file_name": "purple_background_cta_component_1724689237",
-        "div_id": "",
-        "div_action": ""
-    },
-    {
         "role": "chat_acknowledge",
         "content": "Okay, I'm working on changing the image to a headphone.",
         "message_id": "guest30082024170205",

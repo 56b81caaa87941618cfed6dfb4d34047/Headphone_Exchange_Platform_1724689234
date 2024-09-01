@@ -1,5 +1,5 @@
 <template>
-  <header class="w-full z-30 bg-gradient-to-r from-pink-500 to-purple-600 bg-opacity-30 backdrop-filter backdrop-blur-lg shadow-lg rounded-lg" id="header-section-container">
+  <header class="w-full z-30 bg-gradient-to-r from-pink-500 to-purple-600 bg-opacity-30 backdrop-filter backdrop-blur-lg shadow-lg rounded-lg" id="header-section-container" style="min-height: 310px">
     <div class="max-w-6xl mx-auto px-4 sm:px-6">
       <div class="flex items-center justify-between h-16 md:h-20">
         <!-- Site Branding -->
@@ -116,7 +116,7 @@
             id="mobile-nav"
             class="absolute top-full z-20 left-0 w-full px-4 sm:px-6 overflow-hidden transition-all duration-300 ease-in-out"
             x-ref="mobileNav"
-            :style="expanded ? 'max-height: ' + $refs.mobileNav.scrollHeight + 'px; opacity: 1' : 'max-height: 0; opacity: .8'"
+            :
             @click.outside="expanded = false"
             @keydown.escape.window="expanded = false"
             x-cloak

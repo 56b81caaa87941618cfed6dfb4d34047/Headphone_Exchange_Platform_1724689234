@@ -25,21 +25,21 @@
         <!-- Content -->
         <div id="content" class="max-w-3xl mx-auto text-center">
           <div id="content-subtitle" class="flex">
-              Snap up, roll, and trade premium alligator scales with ease
+              Shell out, swim, and swap premium turtle shells with ease
           </div>
           <div class="flex" id="content-title-container">
-              Enhance Your Swamp Sound Experience
+              Enhance Your Underwater Sound Experience
           </div>
           <div class="flex" id="content-body-container">
-              Discover, trade, and upgrade your alligator scales in the ultimate swamp marketplace
+              Discover, trade, and upgrade your turtle shells in the ultimate sea turtle marketplace
           </div>
           <a id="content-cta-button" href="#0" class="btn transition duration-150 ease-in-out group text-purple-900 bg-gradient-to-r from-pink-300 via-purple-200 to-pink-300 hover:bg-white hover:text-purple-600 rounded-lg px-6 py-3">
-            Snap In
+            Dive In
             <span id="content-cta-arrow" class="tracking-normal group-hover:translate-x-0.5 transition-transform duration-150 ease-in-out ml-1 text-purple-700">-&gt;</span>
           </a>
 
           <a id="shoryuken-button" href="#0" class="btn transition duration-150 ease-in-out group text-purple-900 bg-gradient-to-r from-pink-300 via-purple-200 to-pink-300 hover:bg-white hover:text-purple-600 rounded-lg px-6 py-3 mt-4">
-            Gator Blast
+            Shell Blast
           </a>
 
           <!-- Replaced Image -->
